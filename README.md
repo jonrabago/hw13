@@ -28,9 +28,7 @@ What made things challenging was forgetting how to code in P5, a little, because
 
 ## Completed Work
 
-Upload photos and videos of your completed final project!
-
-Also upload the code that makes up your project to your repository.
+https://editor.p5js.org/jonrabago/sketches/pftN5MuhN
 
 ## References and links
 
