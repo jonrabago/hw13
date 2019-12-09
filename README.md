@@ -1,11 +1,14 @@
 # Your Project Title Here
--You're a celebrity signing autographs to adoring fans.-
+~~You're a celebrity signing autographs to adoring fans.~~
+Draw Your Own Character
 
 ## Summary
--Fans come up to you so you can autograph your headshot. Each time they comment on how much they adore you, as you sign. In the background, you'll hear crowds of cheering fans.-
+~~Fans come up to you so you can autograph your headshot. Each time they comment on how much they adore you, as you sign. In the background, you'll hear crowds of cheering fans.~~
+
+App that works on both mobile and web devices, where you can draw your own little characters. With plentiful of colors and stroke weights, theres a variation of what you can create!
 
 ## Component Parts
--Headshots, [babies, boobs, and butts might be asked to be signed], variety of voices commenting, crowd cheering, you can autograph with a touchscreen and mouse, items swiping right after being signed.-
+~~Headshots, [babies, boobs, and butts might be asked to be signed], variety of voices commenting, crowd cheering, you can autograph with a touchscreen and mouse, items swiping right after being signed.~~
 
 ## When your project is completed, you will then add the following sections:
 
